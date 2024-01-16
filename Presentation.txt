@@ -1,0 +1,278 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Access 
+
+control system 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Key Components 
+
+- Arduino Mega board.			- Fullsize Bread Board. 
+
+- Keypad. 						- RFID Reader. 
+
+- 16 x 2 LCD monitor.				- Solenoid lock. 
+
+-  Buzzer. 						- IR Sensor.                               
+
+ 
+
+Functionality 
+
+The user starts the device by pressing the start key, then he is expected to enter the device’s hard-coded password correctly to open the lock and press exit. The user has three attempts before the buzzer alarm goes off. When the alarm is on it cannot be turned off until an admin RFID card is used to ensure security and reliability. If the IR sensor detects trespassing on the door, it will also sound the alarm. 
+And to save the device power consumption, the LCD is turned off if 30 seconds pass with no actions. An admin can also bypass the password using their RFID card. 
+
+ 
+
+الخصائص الإضافية 
+
+يبدأ المستخدم الجهاز بزر البدء، و يفترض أن يقوم بإدخال كلمة المرور المحددة لفتح القفل. يتاح للمستخدم ثلاث محاولات لإدخال كلمة المرور الصحيحة و بعدها تنطلق صفارة الإنذار. و عند إنطلاق الإنذار لا يمكن إطفائه حتى يتم إستخدام أحد بطاقات المشرفين للتأكد من الأمن و الموثوقية. و إذا إكتشف حساس الأشعة تحت الحمراء تعدي على الباب يقوم بإطلاق الإنذار تلقائيا. توفيرا لإستهلاك الطاقة تقوم الشاشة بإغلاق نفسها بنفسها بعد ٣٠ ثانية من السكون و عدم التفاعل. كذلك يمكن للمشرفين تخطي كلمة المرور بإستخدام كروت التعريف الخاصة بهم. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Matrix Team Members 
+
+ 
+
+Task 
+
+Members who worked on it: 
+
+- Software 
+
+(Coding) 
+
+-أحمد عبدالناصر عبدالحميد. 
+
+-إمتياز ثروت محمد طلبة صقر. 
+
+-غادة محمد علي أحمد. 
+
+-قمرالدولة فوزي عبد المجيد. 
+
+- Software  
+
+(Simplification) 
+
+-تقى أحمد فتحي محمد أبو جرز. 
+
+-صفا عاصم عبد الصمد. 
+
+-فاطمة إبراهيم عبدالستار سرحان. 
+
+- IR Sensor 
+
+-أمينة رضا عادل أبو الرايات. 
+
+-سلوان محمود عصامي سيد. 
+
+- Solenoid lock 
+
+-ألاء ياسر عماره الليثي محمود. 
+
+-حسناء حسن إبراهيم منوفي. 
+
+- Keypad 
+
+يوسف عادل سعيد أبوزيد. 
+
+- LCD monitor 
+
+ 
+
+سامح بسيوني جابر العدولي. 
+
+- RFID reader 
+
+قمرالدولة فوزي عبد المجيد.  
+
+- Project overview 
+
+-مروة وجيه محمد. 
+
+-ندى مصري حسين محمد. 
+
+ 
